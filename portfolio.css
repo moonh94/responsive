@@ -25,6 +25,10 @@ body {
     height: 100px;
     width: 100%;
 }
+.img-thumbnail {
+    width: 150px;
+    height: 150px;
+}
 @media screen and (max-width: 640px) {
     
     nav {
